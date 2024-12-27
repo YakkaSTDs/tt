@@ -69,6 +69,10 @@ Jika Anda mengalami masalah seperti error atau peringatan setelah pemasangan plu
 3. [Kebijakan Skrip](permapluins_skrip.md)  
 4. [Run Out of Memory](permapluins_memori.md)
 
+<details>
+<summary> Belum Selesai! </summary>
+
+
 ---
 
 ### **Rekomendasi, Tips, dan Tutorial Umum**
@@ -102,6 +106,8 @@ Tutorial untuk membuat plugin Theotown (untuk sekarang, kunjungi tutorial forum)
 > **Informasi:** Untuk plugin seperti jalan, mobil, pesawat, dan shader **perlu coding!** Jika Anda ingin membuat plugin jenis tersebut, baca tutorial forum, dan gunakan fitur terjemahan jika diperlukan.
 
 ---
+
+</details>
 
 ### **Lainnya**
 Hal-hal lain yang mungkin berguna:  
