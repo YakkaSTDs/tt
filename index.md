@@ -21,19 +21,19 @@ Di bagian ini, Anda dapat menemukan tautan ke *server* Discord, grup WhatsApp, s
 ---
 
 ### **Alasan Age of Sail (AoS) Error**
-Anda dapat membaca alasan mengapa plugin Age of Sail error [di sini](). **Disarankan untuk membaca terlebih dahulu** agar memahami konteksnya sebelum mengunduh. Untuk mengunduh dan cara pemasangannya, cek [di sini]().
+Anda dapat membaca alasan mengapa plugin Age of Sail error [di sini](AoS_error.md). **Disarankan untuk membaca terlebih dahulu** agar memahami konteksnya sebelum mengunduh. Untuk mengunduh, cek [di sini](https://github.com/TPhil-Corp/Age-of-Sail/releases),dan cara pemasangannya [di sini](index.md#cara-memasang-plugin-theotown).
 
 ---
 
 ### **Cara Memasang Plugin Theotown**
 Di bagian ini, Anda akan mempelajari cara memasang plugin Theotown. Jenis berkas plugin yang didukung meliputi `.zip`, `.plugin`, `.ttplugin`, dan `.mpf`. Pastikan tipe file Anda sesuai dengan tutorial pemasangan. Jika mengalami *error* setelah pemasangan, cek halaman [berikut](#masalah-setelah-pasang-plugin).
 
-> **Catatan**: Tutorial ini menggunakan aplikasi [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) karena di Android 10 ke atas, akses menggunakan ZArchiver tanpa root akan diblokir. Jika tetap ingin menggunakan ZArchiver, Anda perlu melakukan *rooting* atau menggunakan Shizuku.
+> **Catatan**: Tutorial ini menggunakan aplikasi [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) karena di Android 10 ke atas, akses menggunakan ZArchiver tanpa root akan diblokir. Jika tetap ingin menggunakan ZArchiver, Anda perlu melakukan *rooting* atau menggunakan [Shizuku](https://shizuku.rikka.app/).
 
-1. [Tipe Berkas ZIP]() - Contoh: `Nama Plugin.zip`
-2. [Tipe Berkas plugin]() - Contoh: `Nama Plugin.plugin`
-3. [Tipe Berkas ttplugin]() - Contoh: `Nama Plugin.ttplugin`
-4. [Tipe Berkas mpf]() - Contoh: `Nama Plugin.mpf`
+1. [Tipe Berkas ZIP](install_zip.md) - Contoh: `Nama Plugin.zip`
+2. [Tipe Berkas plugin](install_plugin.md) - Contoh: `Nama Plugin.plugin`
+3. [Tipe Berkas ttplugin](install_ttplugin.md) - Contoh: `Nama Plugin.ttplugin`
+4. [Tipe Berkas mpf](install_mpf.md) - Contoh: `Nama Plugin.mpf`
 
 ---
 
