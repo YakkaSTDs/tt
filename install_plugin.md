@@ -1,4 +1,4 @@
-[Kembali ke laman utama.](index.html)
+[Kembali ke laman utama.](index.md)
 
 > **Catatan**: Tutorial ini menggunakan aplikasi [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) karena di Android 10 ke atas, akses menggunakan ZArchiver tanpa root akan diblokir. Jika tetap ingin menggunakan ZArchiver, Anda perlu melakukan *rooting* atau menggunakan [Shizuku](https://shizuku.rikka.app/).
 
