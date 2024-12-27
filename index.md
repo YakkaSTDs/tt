@@ -39,19 +39,19 @@ Di bagian ini, Anda akan mempelajari cara memasang plugin Theotown. Jenis berkas
 
 ### **Cara Memasang dan Mencadangkan Wilayah**
 Pelajari cara memasang dan mencadangkan wilayah (*map*) Theotown:  
-- [Tutorial Memasang Wilayah](#)  
-- [Tutorial Mencadangkan Wilayah](#)  
+- [Tutorial Memasang Wilayah](wilayah_pasang.md)  
+- [Tutorial Mencadangkan Wilayah](wilayah_cadang.md)  
 
-Anda juga bisa membuat wilayah menggunakan peta lokasi dunia nyata seperti Jakarta, Surabaya, IKN, dan lainnya [dengan tutorial ini](). 
+Anda juga bisa membuat wilayah menggunakan peta lokasi dunia nyata seperti Jakarta, Surabaya, IKN, dan lainnya [dengan tutorial ini](heightmap.md). 
 
 ---
 
 ### **Cara Memasang dan Mencadangkan Kota Satuan**
 Pelajari cara memasang dan mencadangkan kota satuan (*map*) Theotown:  
-- [Tutorial Memasang Kota Satuan](#)  
-- [Tutorial Mencadangkan Kota Satuan](#)  
+- [Tutorial Memasang Kota Satuan](kotasatuan_pasang.md)  
+- [Tutorial Mencadangkan Kota Satuan](kotasatuan_cadang.md)  
 
-Anda juga bisa membuat kota satuan menggunakan peta lokasi dunia nyata seperti Jakarta, Surabaya, IKN, dan lainnya [dengan tutorial ini](). 
+Anda juga bisa membuat kota satuan menggunakan peta lokasi dunia nyata seperti Jakarta, Surabaya, IKN, dan lainnya [dengan tutorial ini](heightmap.md). 
 
 ---
 
