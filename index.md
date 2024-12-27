@@ -64,10 +64,10 @@ Untuk menambahkan musik kustom ke Theotown, ikuti tutorial berikut: [Klik di sin
 ### **Masalah Setelah Pasang Plugin**
 Jika Anda mengalami masalah seperti error atau peringatan setelah pemasangan plugin, berikut beberapa solusi umum:
 
-1. [Berkas Manifest Tidak Ditemukan]()  
-2. [Plugin Tidak Muncul di Kategori]()  
-3. [Kebijakan Skrip]()  
-4. [Run Out of Memory]()
+1. [Berkas Manifest Tidak Ditemukan](permapluins_manifest.md)  
+2. [Plugin Tidak Muncul di Kategori](permapluins_kategori.md)  
+3. [Kebijakan Skrip](permapluins_skrip.md)  
+4. [Run Out of Memory](permapluins_memori.md)
 
 ---
 

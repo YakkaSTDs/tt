@@ -1,0 +1,3 @@
+[Kembali ke laman utama.](index.md) ![Kategori Plugin](https://raw.githubusercontent.com/YakkaSTDs/tt/refs/heads/main/img/ctg.png)
+
+**Tidak semua plugin** akan muncul di kategori plugin. Memang, kategori ini memudahkan pemain untuk mencari sesuatu berdasarkan plugin. Namun, plugin di luar store terkadang tidak tercantum di sana. Anda bisa mencari konten plugin di kategori masing-masing. Contohnya, jika plugin berisi dekorasi, carilah di kategori dekorasi game.
