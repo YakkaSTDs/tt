@@ -56,7 +56,7 @@ Anda juga bisa membuat kota satuan menggunakan peta lokasi dunia nyata seperti J
 ---
 
 ### **Cara Menambahkan Musik Kustom**
-Untuk menambahkan musik kustom ke Theotown, ikuti tutorial berikut: [Klik di sini]().  
+Untuk menambahkan musik kustom ke Theotown, ikuti tutorial berikut: [Klik di sini](bgm.md).  
 > **Catatan:** Hanya mendukung format `.mp3`. Jika berkas Anda menggunakan format lain, konversikan terlebih dahulu.
 
 ---
